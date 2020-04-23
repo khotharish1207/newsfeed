@@ -2,7 +2,7 @@ import * as React from "react";
 import { Provider as PaperProvider } from "react-native-paper";
 import { StyleSheet, Text, View, ScrollView } from "react-native";
 
-import AppRoutes from "./App/application";
+import AppRoutes from "./src/App/application";
 
 export default function App() {
   return (
